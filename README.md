@@ -1,0 +1,2 @@
+# mailr
+Mail sending tool
